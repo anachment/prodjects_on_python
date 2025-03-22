@@ -1,2 +1,1 @@
-# prodjects_on_python
-This repository contains Python projects, the repository is constantly updated.
+<img src="header.gif" width="1000" height="200" alt="Иллюстрация" vspace="5" hspace="5">
